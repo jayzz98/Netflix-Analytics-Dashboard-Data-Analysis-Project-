@@ -1,3 +1,8 @@
+
+
+![Screenshot (72)](https://github.com/user-attachments/assets/fd9fc047-fcb1-4666-b9a2-1c88841428c6)
+
+
 # 🎬 Netflix Titles Analysis Dashboard
 
 An interactive Power BI dashboard visualizing global trends in Netflix Movies and TV Shows — including ratings, votes, genres, and country-level insights.
