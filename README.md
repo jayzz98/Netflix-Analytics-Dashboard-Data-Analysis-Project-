@@ -7,7 +7,7 @@
 
 An interactive Power BI dashboard visualizing global trends in Netflix Movies and TV Shows — including ratings, votes, genres, and country-level insights.
 
-![Netflix Dashboard Preview](./assets/netflix-dashboard-preview.png)
+
 
 ---
 
