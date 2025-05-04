@@ -46,9 +46,10 @@ The dashboard was created to support data storytelling and practice Power BI vis
 
 ## 🛠 Built With
 
-- **Power BI** (core dashboard & DAX calculations)
-- **Microsoft Bing Maps** (for geographic visuals)
-- **Kaggle Netflix Dataset** (for movies and TV metadata)
+- **Power BI** – for dashboard development and DAX-based visual logic
+- **MySQL** – for preprocessing, cleaning, and querying the Netflix dataset
+- **Microsoft Bing Maps** – integrated map visuals for country-wise data
+- **Kaggle Netflix Dataset** – data source containing title metadata, ratings, and votes
 
 ---
 
