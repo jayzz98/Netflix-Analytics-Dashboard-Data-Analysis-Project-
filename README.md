@@ -60,12 +60,6 @@ Data includes:
 - Average Rating & Number of Votes
 - Used for deriving insights & building visuals
 
-_Source_: [Kaggle Netflix Titles Dataset](https://www.kaggle.com/datasets)
 
----
 
-## 🚀 How to Use
 
-1. **Clone this repo**:
-   ```bash
-   git clone https://github.com/your-username/netflix-powerbi-dashboard.git
